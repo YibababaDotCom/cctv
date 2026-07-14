@@ -9,7 +9,6 @@ CHANNELS = [
     ("cctv1",  "CCTV-1",  "https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886"),
     ("cctv2",  "CCTV-2",  "https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=12030532124776958103"),
     ("cctv4",  "CCTV-4",  "https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=10620168294224708952"),
-    ("cctv5",  "CCTV-5",  "https://tv.cctv.com/live/cctv5/"),
     ("cctv7",  "CCTV-7",  "https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=8516529981177953694"),
     ("cctv9",  "CCTV-9",  "https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=7252237247689203957"),
     ("cctv10", "CCTV-10", "https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=14589146016461298119"),
